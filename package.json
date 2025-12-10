@@ -4,6 +4,7 @@
   "publisher": "swesadiqul",
   "description": "Professional Django + DRF starter template with modular apps, API versioning, Docker support, and ready-to-use VS Code configuration.",
   "version": "1.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
